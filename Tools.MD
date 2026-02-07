@@ -18,36 +18,43 @@
 
 ## OSINT (Open-Source Intelligence)
 
-Sherlock — Username/account finder
+- Sherlock — Username/account finder
 
-whatsmyname.app — Username/account finder
+- whatsmyname.app — Username/account finder
 
-Scaninfoga — Phone/email intelligence
+- Scaninfoga — Phone/email intelligence
 
-Breachdirectory.org — Breached email lookup
+- Breachdirectory.org — Breached email lookup
 
-Recon-ng — Emails, subdomains, metadata
+- Recon-ng — Emails, subdomains, metadata
 
-Maltego — Relationship & link analysis
+- Maltego — Relationship & link analysis
 
-Network Scanning & Traffic Analysis
 
-Nmap — Network & open-port scanner
+## Network Scanning & Traffic Analysis
 
-Wireshark — Network traffic analysis
+- Nmap — Network & open-port scanner
 
-Web Application Security
+- Wireshark — Network traffic analysis
 
-SQLmap — SQL injection testing
 
-Nikto — Web server vulnerability scanner
+## Web Application Security
 
-Burp Suite — Web app testing framework
+- SQLmap — SQL injection testing
 
-Active Directory & Internal Attacks
+- Nikto — Web server vulnerability scanner
 
-BloodHound — Active Directory attack path analysis
+- Burp Suite — Web app testing framework
 
-Vulnerabilities & Exploits
 
-Zero-day Vulnerabilities — Unknown/unpatched flaws
+## Active Directory & Internal Attacks
+
+- BloodHound — Active Directory attack path analysis
+
+
+## Vulnerabilities & Exploits
+
+- Zero-day Vulnerabilities — Unknown/unpatched flaws
+
+
+
