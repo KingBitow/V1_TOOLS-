@@ -57,4 +57,41 @@
 - Zero-day Vulnerabilities — Unknown/unpatched flaws
 
 
+## Wordlists & Payloads
+
+- SecLists
+
+- PayloadsAllTheThings
+
+- FuzzDB
+
+- Probable-Wordlists
+
+- Assetnote Wordlists
+
+- OneListForAll
+
+- RobotsDisallowed
+
+- Commonspeak2
+
+- IntruderPayloads
+
+- BruteX Lists
+
+## Web Application Testing
+- OWASP ZAP
+- Nikto
+- ffuf
+- Gobuster
+- SQLmap
+- Wfuzz
+- Dirsearch
+- XSStrike
+- Dalfox
+- Commix
+
+
+
+
 
